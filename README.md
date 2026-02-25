@@ -1,52 +1,51 @@
-<!-- PROJECT HEADER -->
-<h1 align="center">🚀 Second Year Project</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  ⚡ Smart Service Provider ⚡
+</h1>
 
 <p align="center">
-  A Modern Full-Stack Web Application built with the MERN Stack
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Framework-Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Modern+Full+Stack+Web+Application;Built+With+MERN+Stack;Clean+UI+%2B+Powerful+Backend;Responsive+%7C+Fast+%7C+Scalable" />
 </p>
 
 ---
 
-## 📌 About The Project
+<!-- Animated Tech Stack Badges -->
+<h2 align="center">🚀 Tech Stack</h2>
 
-This project is a fully responsive and scalable web application developed using modern web technologies.  
-It focuses on clean UI design, structured backend architecture, and performance optimization.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## ✨ Features
+<!-- Glowing Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=header"/>
+</p>
 
-- 🔐 Secure Authentication System
-- 👤 Customer Profile Dashboard
-- 🛠️ Service Provider Profile
-- 📱 Fully Responsive Layout
-- ⚡ Optimized Performance
+---
+
+## 🌟 About The Project
+
+This project is a **modern, responsive and scalable web application**  
+built using the powerful **MERN stack**.
+
+✨ Clean Architecture  
+⚡ Optimized Performance  
+📱 Fully Responsive  
+🔐 Secure Authentication  
+🧠 Structured Codebase  
+
+---
+
+## 🔥 Features
+
+- 🔐 User Authentication
+- 👤 Customer & Provider Profiles
+- 📊 Dynamic Data Rendering
 - 🌐 REST API Integration
-- 🎨 Clean and Maintainable Code
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- React.js
-- Tailwind CSS
-- Axios
-
-### 🖥️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+- 📱 Mobile Friendly Design
+- 🚀 Fast Deployment Ready
 
 ---
 
