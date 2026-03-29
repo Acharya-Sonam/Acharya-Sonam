@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Modern+Full+Stack+Web+Application;Built+With+MERN+Stack;Clean+UI+%2B+Powerful+Backend;Responsive+%7C+Fast+%7C+Scalable" />
 </p>
-
 ---
 
 <!-- Animated Tech Stack Badges -->
