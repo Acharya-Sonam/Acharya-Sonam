@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Sonam Acharya</h1>
-<h3 align="center">💻 Aspiring Developer | Cybersecurity Enthusiast | Web Wizard 🧙‍♂️</h3>
+<h3 align="center">💻 Aspiring Developer | Mern Stack Enthusiast | Web Wizard 🧙‍♂️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Cybersecurity+Learner;MERN+Stack+Enthusiast;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Frontend+Developer;Cybersecurity+Learner;MERN+Stack+Enthusiast;Always+Learning+New+Things🚀">
 </p>
 
 ---
