@@ -27,7 +27,8 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 - ⚡ Passionate about building real-world projects 🚀
 
----
+--
+
 
 ## `> tech.stack`
 
