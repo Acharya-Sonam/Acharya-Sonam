@@ -1,71 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sonam+Acharya+%F0%9F%91%8B;Frontend,Backend+Developer;Cybersecurity+Enthusiast alt="Typing SVG" />
-</h1>
+## Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/Acharya-Sonam">
-    <img src="https://komarev.com/ghpvc/?username=Acharya-Sonam&label=Profile+Views&color=3fb950&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Acharya-Sonam?tab=followers">
-    <img src="https://img.shields.io/github/followers/Acharya-Sonam?label=Followers&style=flat&color=3fb950" alt="followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Acharya-Sonam&theme=dark&hide_border=true"
-       alt="GitHub Streak Stats" />
-  <img src="https://streak-stats.demolab.com?user=Acharya-Sonam&theme=dark&hide_border=true"
-       alt="GitHub Streak Stats" />
-</p>
+# 💫 About Me:
+• 🔭 I’m currently working on **Blood Donation Management System**  
+• 💻 I’ve built projects like **Gym Management System (Java)** and **WeCare Inventory System (Python)**  
+• 👯 I’m looking to collaborate on **real-world software development projects**  
+• 🤝 I’m looking for help with **deployment, backend development & scaling applications**  
+• 🌱 I’m currently learning **Software Engineering, Web Development & AI concepts**  
+• 💬 Ask me about **Python, Java, Web Projects & System Development**  
+• ⚡ Fun fact: I enjoy turning academic projects into real usable systems  
 
 ---
 
-## `> about.me`
-
-- 🔭 Working on **Web Wizard (Ethical Hacking Awareness Project)**
-- 🌱 Learning **MERN Stack & Cybersecurity**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- ⚡ Passionate about building real-world projects 🚀
-
---
-
-
-## `> tech.stack`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</div>
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-acharya-529116335/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/println_sonam/?hl=en)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vercel.com/acharyasonamdev-8155s-projects/web-wizard_by_sonam_acharya)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharyasonam.dev@gmail.com)
 
 ---
 
-## `> contribution.graph`
+# 🚀 Projects:
+• 🧠 **AI Resume Analyzer & Job Matcher**  
+→ AI-based system that analyzes resumes, extracts skills, and provides job-matching insights  
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acharya-Sonam&theme=react-dark&hide_border=true&bg_color=000000&color=00ff88&line=00ff88&point=ffffff" />
-</div>
+• 🏋️ **Gym Management System (Java)**  
+→ Desktop-based system for managing members, plans, and operations using Java  
 
----
+• 🩸 **Blood Donation Management System**  
+→ Web-based platform connecting donors and patients using Java (J2EE, JSP, Servlets)  
 
-## `> achievements`
+• 🛒 **WeCare Inventory & Billing System (Python)**  
+→ CLI-based system for managing products, billing, and stock updates  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Acharya-Sonam&theme=onedark&no-frame=true&margin-w=10" />
-</div>
-
----
-
-## `> connect.with.me`
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sonam-acharya-529116335)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:sonamacharya0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Acharya-Sonam)
-
-</div>
+• 📊 **Election Data Analysis (Python)**  
+→ Data analysis project exploring Nepal election trends and insights  
 
 ---
 
-<p align="center">✨ Keep Learning | Keep Building | Stay Ethical 🔐</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Acharya-Sonam&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Acharya-Sonam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acharya-Sonam&theme=dark&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Acharya-Sonam&icon=0&color=0)](https://visitcount.itsvg.in)
