@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
+
 • 🔭 I’m currently working on **Blood Donation Management System**  
 • 💻 I’ve built projects like **Gym Management System (Java)** and **WeCare Inventory System (Python)**  
 • 👯 I’m looking to collaborate on **real-world software development projects**  
